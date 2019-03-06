@@ -1,0 +1,27 @@
+{
+  "name": "fronendtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Minh Hoang",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.3.4",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "babel-runtime": "^6.26.0",
+    "vue-loader": "^13.7.3",
+    "vue-template-compiler": "^2.6.8",
+    "webpack": "^3.12.0",
+    "webpack-dev-server": "^2.11.3"
+  },
+  "dependencies": {
+    "vue": "^2.6.8"
+  }
+}

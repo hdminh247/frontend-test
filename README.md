@@ -21,6 +21,12 @@ To perform this test, we ask you to fork this into your Github account. You will
 If you can not do all the exercises it does not matter. Also, do not spend time on the design. Go straight to the code.
 
 ## Test
+Run those commands
+`
+npm i &&
+npm start
+`
+Web is served at port  8080
 
 We are going to ask you to create a simple VueJS application so that our chefs can manage the food they have in their fridge.
 
